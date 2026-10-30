@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """HTTP client for the Pepkio molarity-solution-calculator tool."""
 
 from __future__ import annotations
